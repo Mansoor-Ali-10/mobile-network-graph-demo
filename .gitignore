@@ -1,0 +1,16 @@
+node_modules/
+dist/
+build/
+coverage/
+.expo/
+.env
+.env.*
+!.env.example
+*.log
+*.aab
+*.apk
+*.ipa
+*.pem
+*.p8
+*.keystore
+.DS_Store

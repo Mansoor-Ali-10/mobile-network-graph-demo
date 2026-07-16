@@ -1,0 +1,21 @@
+{
+  "name": "mobile-network-graph-demo",
+  "version": "1.0.0",
+  "description": "Portfolio-safe React Native network graph layout demo.",
+  "type": "module",
+  "private": false,
+  "scripts": {
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "react": "^19.2.7",
+    "react-native": "^0.86.0",
+    "react-native-svg": "^15.15.5"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.8",
+    "typescript": "^5.9.3",
+    "vitest": "^4.1.10"
+  }
+}
